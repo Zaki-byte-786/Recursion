@@ -26,8 +26,8 @@ public class arrayListReturn {
         return arraylist;
     }
     public static void main(String[] args) {
-int [] array = {1,2,3,3,2,3,4,1,3};
+int [] array = {1,2,3,3,2,3,4,1,3,2};
 //        System.out.println(recursion(array,3,0));
-        System.out.println(targetArraylist(array,3,0));
+//        System.out.println(targetArraylist(array,2,0));
     }
 }
